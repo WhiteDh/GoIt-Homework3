@@ -1,0 +1,7 @@
+name age salary
+Dima 20 214
+Joseph 28 5433
+Kally 11 0
+Kassy 55 2222000
+Olga 31 231.22
+Steav 25 31500.11

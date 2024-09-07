@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Dima",
+    "age": 20,
+    "salary": 214.0
+  },
+  {
+    "name": "Joseph",
+    "age": 28,
+    "salary": 5433.0
+  },
+  {
+    "name": "Kally",
+    "age": 11,
+    "salary": 0.0
+  },
+  {
+    "name": "Kassy",
+    "age": 55,
+    "salary": 2222000.0
+  },
+  {
+    "name": "Olga",
+    "age": 31,
+    "salary": 231.22
+  },
+  {
+    "name": "Steav",
+    "age": 25,
+    "salary": 31500.11
+  }
+]
